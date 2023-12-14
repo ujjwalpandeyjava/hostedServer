@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>My Page</title>
+</head>
+
+<body>
+	<h1>Available Apps</h1>
+	<ol id="availableApps"></ol>
+	<script>
+		window.onload = () => {
+			let availableApps = document.getElementById("availableApps")
+			fetch('availableApps')
+				.then(response => response.json())
+				.then(response => {
+					// console.log(response);
+					response.availableApps.map(m => {
+						let eleLi = document.createElement('li');
+						eleLi.innerText = m
+						availableApps.appendChild(eleLi);
+
+					})
+				})
+		};
+	</script>
+</body>
+
+</html>
