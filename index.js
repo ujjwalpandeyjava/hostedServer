@@ -40,14 +40,11 @@ app.use('/contactActions', require('./router/contactActions'))
 app.get(['/app1', '/app1/*'], function (req, res) {
 	res.sendFile(path.join(__dirname, 'build', 'app1/index.html'));
 });
-/* app.get('/app1/*', function (req, res) {
-	res.sendFile(path.join(__dirname, 'build', 'app1/index.html'));
-}); */
 app.get(['/app2', '/app2/*'], function (req, res) {
 	res.sendFile(path.join(__dirname, 'build', 'app2/index.html'));
 });
 app.get(['/Portfolio', '/Portfolio/*'], function (req, res) {
-	res.sendFile(path.join(__dirname, 'build', 'app2/index.html'));
+	res.sendFile(path.join(__dirname, 'build', 'Portfolio/index.html'));
 });
 app.get('/availableApps', function (req, res) {
 	res.sendFile(path.join(__dirname, 'build', 'folderNames.json'));
