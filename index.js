@@ -46,6 +46,9 @@ app.get(['/app1', '/app1/*'], function (req, res) {
 app.get(['/app2', '/app2/*'], function (req, res) {
 	res.sendFile(path.join(__dirname, 'build', 'app2/index.html'));
 });
+app.get(['/Portfolio', '/Portfolio/*'], function (req, res) {
+	res.sendFile(path.join(__dirname, 'build', 'app2/index.html'));
+});
 app.get('/availableApps', function (req, res) {
 	res.sendFile(path.join(__dirname, 'build', 'folderNames.json'));
 });
