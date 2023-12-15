@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.24ee7652.css",
-    "main.js": "/Portfolio/static/js/main.bfffba22.js",
-    "static/media/buildServer.png": "/Portfolio/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
-    "static/media/cvPreviewImage.jpeg": "/Portfolio/static/media/cvPreviewImage.4d2a2cf9e4abc89bc119.jpeg",
-    "static/media/FrontEnd2.png": "/Portfolio/static/media/FrontEnd2.7a267a75add83d4218c2.png",
-    "static/media/buildServer2.png": "/Portfolio/static/media/buildServer2.ffb201f2955a9a2bbc0a.png",
-    "static/media/FrontEnd.png": "/Portfolio/static/media/FrontEnd.4c682b64f74787faa93c.png",
-    "static/media/ujjwal_Pandey_C_V.pdf": "/Portfolio/static/media/ujjwal_Pandey_C_V.699000ce33f7b4619193.pdf",
-    "static/media/doItTogether.svg": "/Portfolio/static/media/doItTogether.b29492a27d677547e9049cc73894c222.svg",
-    "static/media/testThumbNail.png": "/Portfolio/static/media/testThumbNail.0e92e8c397ecf939d432.png",
-    "static/media/developer1.svg": "/Portfolio/static/media/developer1.c9e0c37b22bec74e37b418f578a12f87.svg",
-    "static/media/1670752620885.jpg": "/Portfolio/static/media/1670752620885.9beee3af2196db0b2c6c.jpg",
-    "static/media/ujjwalAvatar3.png": "/Portfolio/static/media/ujjwalAvatar3.63b2ae7ecb2a77ea2cea.png",
-    "static/media/contact.png": "/Portfolio/static/media/contact.5c08eab5b3759511f598.png",
-    "index.html": "/Portfolio/index.html",
-    "main.24ee7652.css.map": "/Portfolio/static/css/main.24ee7652.css.map",
-    "main.bfffba22.js.map": "/Portfolio/static/js/main.bfffba22.js.map"
+    "main.css": "/static/css/main.24ee7652.css",
+    "main.js": "/static/js/main.9998f1a6.js",
+    "static/media/buildServer.png": "/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
+    "static/media/cvPreviewImage.jpeg": "/static/media/cvPreviewImage.4d2a2cf9e4abc89bc119.jpeg",
+    "static/media/FrontEnd2.png": "/static/media/FrontEnd2.7a267a75add83d4218c2.png",
+    "static/media/buildServer2.png": "/static/media/buildServer2.ffb201f2955a9a2bbc0a.png",
+    "static/media/FrontEnd.png": "/static/media/FrontEnd.4c682b64f74787faa93c.png",
+    "static/media/ujjwal_Pandey_C_V.pdf": "/static/media/ujjwal_Pandey_C_V.699000ce33f7b4619193.pdf",
+    "static/media/doItTogether.svg": "/static/media/doItTogether.b29492a27d677547e9049cc73894c222.svg",
+    "static/media/testThumbNail.png": "/static/media/testThumbNail.0e92e8c397ecf939d432.png",
+    "static/media/developer1.svg": "/static/media/developer1.c9e0c37b22bec74e37b418f578a12f87.svg",
+    "static/media/1670752620885.jpg": "/static/media/1670752620885.9beee3af2196db0b2c6c.jpg",
+    "static/media/ujjwalAvatar3.png": "/static/media/ujjwalAvatar3.63b2ae7ecb2a77ea2cea.png",
+    "static/media/contact.png": "/static/media/contact.5c08eab5b3759511f598.png",
+    "index.html": "/index.html",
+    "main.24ee7652.css.map": "/static/css/main.24ee7652.css.map",
+    "main.9998f1a6.js.map": "/static/js/main.9998f1a6.js.map"
   },
   "entrypoints": [
     "static/css/main.24ee7652.css",
-    "static/js/main.bfffba22.js"
+    "static/js/main.9998f1a6.js"
   ]
 }
